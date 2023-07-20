@@ -1,6 +1,6 @@
 # vs-code
 
-<h1>VS Code settings.json code here<h1/>
+VS Code settings.json code here
 
 ```
 <p>
