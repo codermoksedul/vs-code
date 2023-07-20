@@ -1,6 +1,6 @@
 # vs-code
 
-###VS Code settings.json code here
+### VS Code settings.json code here
 
 ```
 <p>
@@ -48,7 +48,7 @@
 }
 <p/>
 ```
-###Eslintrc code here
+### Eslintrc code here
 
 ```
 {
