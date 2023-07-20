@@ -2,7 +2,7 @@
 
 <h1>VS Code settings.json code here<h1/>
 
-{
+```{
   "liveSassCompile.settings.formats": [
     {
       "format": "expanded",
@@ -44,5 +44,5 @@
   "workbench.iconTheme": "vscode-icons",
   "editor.wordWrap": "on"
 }
-
+```
 
