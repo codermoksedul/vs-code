@@ -3,8 +3,6 @@
 ### VS Code settings.json code here
 
 ```
-
-<p>
 {
   "liveSassCompile.settings.formats": [
     {
@@ -45,9 +43,16 @@
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "workbench.iconTheme": "vscode-icons",
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "workbench.startupEditor": "none",
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.location": "off",
+  "powermode.enabled": true,
+  "powermode.combo.counterSize": 2,
+  "powermode.shake.intensity": 0,
+  "powermode.explosions.size": 5
 }
-<p/>
+
 ```
 ### Eslintrc code here
 
