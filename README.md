@@ -3,6 +3,7 @@
 ### VS Code settings.json code here
 
 ```
+
 <p>
 {
   "liveSassCompile.settings.formats": [
