@@ -4,6 +4,8 @@
 
 ```
 {
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true,
   "liveSassCompile.settings.formats": [
     {
       "format": "expanded",
@@ -50,8 +52,14 @@
   "powermode.enabled": true,
   "powermode.combo.counterSize": 2,
   "powermode.shake.intensity": 0,
-  "powermode.explosions.size": 5
+  "powermode.explosions.size": 5,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotShowInfoMsg": true
 }
+
 
 ```
 ### Eslintrc code here
