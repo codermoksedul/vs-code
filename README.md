@@ -33,9 +33,9 @@
   },
   "javascript.validate.enable": false, //disable all built-in syntax checking
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll.tslint": true,
-    "source.organizeImports": true
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.tslint": "explicit",
+    "source.organizeImports": "explicit"
   },
   "eslint.alwaysShowStatus": true,
   // emmet
@@ -57,7 +57,14 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "security.workspace.trust.untrustedFiles": "open",
   "explorer.confirmDelete": false,
-  "liveServer.settings.donotShowInfoMsg": true
+  "liveServer.settings.donotShowInfoMsg": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+  "git.openRepositoryInParentFolders": "never",
+  "githubPullRequests.createOnPublishBranch": "never",
+  "git.autofetch": true,
+  "hediet.vscode-drawio.resizeImages": null
 }
 
 
